@@ -1,5 +1,4 @@
 # LearnAProgrammingLanguage
-# programming 
 ```
 Learn a programming language in an hour or less
 ```
